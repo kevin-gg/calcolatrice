@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calc 1.0", "calc 1.0\calc 1.0.csproj", "{80D54AEA-44E5-4BA0-AC9D-F350DCD9A289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operazioni", "Operazioni\Operazioni.csproj", "{CEC7B2E8-EF16-4FFB-BEAE-A5F8B72A1238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D54AEA-44E5-4BA0-AC9D-F350DCD9A289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D54AEA-44E5-4BA0-AC9D-F350DCD9A289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D54AEA-44E5-4BA0-AC9D-F350DCD9A289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D54AEA-44E5-4BA0-AC9D-F350DCD9A289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC7B2E8-EF16-4FFB-BEAE-A5F8B72A1238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC7B2E8-EF16-4FFB-BEAE-A5F8B72A1238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC7B2E8-EF16-4FFB-BEAE-A5F8B72A1238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC7B2E8-EF16-4FFB-BEAE-A5F8B72A1238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {433E9ABC-E4AD-494A-9445-7EF2CD3A6FDF}
+	EndGlobalSection
+EndGlobal
